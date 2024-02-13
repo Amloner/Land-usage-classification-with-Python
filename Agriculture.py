@@ -8,7 +8,7 @@ import json
 from PIL import Image
 from colormap import rgb2hex, hex2rgb
 
-#Classifier
+#Classifier2
 from sklearn.linear_model import LogisticRegression 
 from sklearn.metrics import ConfusionMatrixDisplay
 print('hi2')
