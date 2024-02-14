@@ -11,7 +11,6 @@ from colormap import rgb2hex, hex2rgb
 #Classifier2
 from sklearn.linear_model import LogisticRegression 
 from sklearn.metrics import ConfusionMatrixDisplay
-print('hi2')
 
 def get_data(folder, file):
     # download json
